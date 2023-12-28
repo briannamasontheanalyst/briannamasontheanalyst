@@ -1,4 +1,7 @@
-            👩‍🦱 About Me (Hi, I’m Brianna) 
+
+      
+•	👩‍🦱 About Me 
+=
 
 •	👀 I’m interested in all things data science and analytics.
 
@@ -7,3 +10,11 @@
 •	🌱 I’m currently learning:  SQL, Advanced Microsoft Excel, and Python
 
 •	👯‍♀️ I’m looking to collaborate on Beginner level Data Analytics Projects
+
+
+
+•         Tech Proficiencies
+=
+C++
+
+
